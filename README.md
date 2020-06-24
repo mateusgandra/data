@@ -9,7 +9,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
-* [**Análise dos Dados do Airbnb para a cidade de Munique - Alemanha**](https://github.com/mateusgandra/data_science/blob/master/Analisando_os_Dados_do_Airbnb_(Munique).ipynb)
+* [**Análise dos Dados do Airbnb para a cidade de Munique - Alemanha**](https://github.com/mateusgandra/datascience/blob/master/Analisando_os_Dados_do_Airbnb_(Munique).ipynb)
 * **Investigando o naufrágio do Titanic:** 
 
 
