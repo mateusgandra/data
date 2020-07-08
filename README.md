@@ -11,7 +11,6 @@ Lista de projetos em Jupyter Notebook:
 
 * [**Análise dos Dados do Airbnb para a Cidade de Munique - Alemanha**](https://github.com/mateusgandra/data_science/blob/master/Analisando_os_Dados_do_Airbnb_(Munique).ipynb)
 * [**Análise dos Crimes para a Cidade do Rio de Janeiro**](https://github.com/mateusgandra/data_science/blob/master/Analisando_os_Crimes_do_Rio_de_Janeiro.ipynb)
-* **Investigando o naufrágio do Titanic:** 
 
 
 
